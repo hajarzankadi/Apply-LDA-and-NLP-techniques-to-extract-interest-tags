@@ -1,4 +1,4 @@
-# Using-Latent-Dirichlet-Allocation-LDA-and-NLP-techniques-to-predict-interest-tags-from-tweets
+# Topic Modeling with Latent Dirichlet Allocation (LDA)using Gensim and NLP techniques
 
 
 In this tutorial (Part I), I will present the process of generating the interest tags of users based on their tweets using LDA and NLP techniques.
